@@ -20,7 +20,7 @@
 <div align="center">
   <p>Punya pertanyaan spesifik tentang pengalaman atau proyek saya? Tanyakan langsung ke asisten virtual saya!</p>
   
-  <a href="LINK_CHATBOT_KAMU">
+  <a href="https://www.chatbase.co/ydCM62VbCLnkg4yQVDjFT/help">
     <img src="https://img.shields.io/badge/Chat_With_Ilham_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbot">
   </a>
 </div>
