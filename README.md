@@ -17,12 +17,8 @@
 
 ---
 
-### 📊 Statistik Bahasa Terbanyak
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamXkyo&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=ffffff&text_color=a9a9a9" alt="Top Langs IlhamXkyo" />
-
----
-
-### 📬 Mari Terkoneksi
+### 📬 akun lainnya 
+[![Instagram](https://www.instagram.com/ilhammm_137)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username-kamu)
 
