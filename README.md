@@ -16,6 +16,15 @@
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+### 🤖 Tanya Apapun Tentang Saya!
+<div align="center">
+  <p>Punya pertanyaan spesifik tentang pengalaman atau proyek saya? Tanyakan langsung ke asisten virtual saya!</p>
+  
+  <a href="LINK_CHATBOT_KAMU">
+    <img src="https://img.shields.io/badge/Chat_With_Ilham_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbot">
+  </a>
+</div>
+---
 
 ### 📬 akun lainnya 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
