@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRyeXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKMGpxxcaeqpIu4/giphy.gif" width="120" alt="Eye Monitoring">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1cDZrOXI5bHp4c3dzNW5hYXhkcXVzMHF4azMyY3Z3aG52NGJzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6C0m3zHvKEsoiKYXq2/giphy.gif)" width="120" alt="Eye Monitoring">
 
 # Halo, Saya Ilham 👋
 *Full Stack Developer | Tech Enthusiast | Minimalist Design Lover*
