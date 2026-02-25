@@ -18,8 +18,7 @@
 ---
 
 ### 📬 akun lainnya 
-[![Instagram](https://www.instagram.com/ilhammm_137)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-kamu)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username-kamu)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhammm_137)
 
 </div>
