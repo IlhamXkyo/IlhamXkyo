@@ -21,7 +21,7 @@
   <p>Punya pertanyaan spesifik tentang pengalaman atau proyek saya? Tanyakan langsung ke asisten virtual saya!</p>
   
   <a href="https://www.chatbase.co/ydCM62VbCLnkg4yQVDjFT/help">
-    <img src="https://img.shields.io/badge/Chat_With_Ilham_AI-000000?style=for-the-badge&logo=openai&logoColor=white" width="50" alt="AI Chatbot">
+    <img src="https://img.shields.io/badge/Chat_With_Ilham_AI-000000?style=for-the-badge&logo=openai&logoColor=white" width="200" alt="AI Chatbot">
   </a>
 </div>
 ---
