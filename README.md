@@ -34,20 +34,16 @@
 
 ### 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/IlhamXkyo/zero-g-notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=zero-g-notes&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/IlhamXkyo/TRSLT_RL_KYO_v1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=TRSLT_RL_KYO_v1&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Repository | Description | Tech Stack | Link |
+| :--- | :--- | :---: | :---: |
+| 🪶 **zero-g-notes** | A tactile, distraction-free desktop notes app powered by zero-g physics, gravity toggle, and an editorial minimalist UI. | `JavaScript` `Matter.js` `Electron` | [View Repo](https://github.com/IlhamXkyo/zero-g-notes) |
+| 🌐 **TRSLT_RL_KYO_v1** | Transcribe audio to text and translate it in real-life (RL) for interacting with people in hangout games. | `Python` | [View Repo](https://github.com/IlhamXkyo/TRSLT_RL_KYO_v1) |
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamXkyo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=IlhamXkyo&theme=tokyonight&hide_border=true" alt="Ilham's Streak" />
 </p>
 
 ---
