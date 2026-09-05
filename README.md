@@ -6,7 +6,7 @@
 *Full-Stack Web Enthusiast | Minimalist Design Lover*
 
 <p align="center">
-  Passionate about building functional, aesthetically pleasing, and user-centric web applications. Always exploring modern web ecosystems and experimenting with AI integration.
+  Passionate about building functional, aesthetically pleasing, and user-centric applications. Always exploring modern web ecosystems, physics-driven UI, and practical automation tools.
 </p>
 
 ---
@@ -32,15 +32,14 @@
 
 ---
 
-### 📌 Pinned Repositories
+### 📌 Featured Repositories
 
-<!-- Ganti NAMA-REPO-1 dan NAMA-REPO-2 dengan nama repo publikmu -->
 <p align="center">
-  <a href="https://github.com/IlhamXkyo/NAMA-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/IlhamXkyo/zero-g-notes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=zero-g-notes&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/IlhamXkyo/NAMA-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/IlhamXkyo/TRSLT_RL_KYO_v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=TRSLT_RL_KYO_v1&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
