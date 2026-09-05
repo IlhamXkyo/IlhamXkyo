@@ -32,20 +32,23 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Pinned Repositories
 
-| Project | Description | Stack | Demo / Repo |
-| :--- | :--- | :--- | :--- |
-| **Project Name 1** | *Deskripsi singkat apa yang diselesaikan proyek ini.* | `React` `Node.js` | [GitHub](https://github.com/IlhamXkyo) / [Live Demo](#) |
-| **Project Name 2** | *Aplikasi web interaktif dengan integrasi API / bot.* | `Python` `Vercel` | [GitHub](https://github.com/IlhamXkyo) / [Live Demo](#) |
+<!-- Ganti NAMA-REPO-1 dan NAMA-REPO-2 dengan nama repo publikmu -->
+<p align="center">
+  <a href="https://github.com/IlhamXkyo/NAMA-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/IlhamXkyo/NAMA-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IlhamXkyo&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamXkyo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Ilham's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamXkyo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamXkyo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
