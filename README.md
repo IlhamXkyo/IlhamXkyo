@@ -36,6 +36,7 @@
 
 | Repository | Description | Tech Stack | Link |
 | :--- | :--- | :---: | :---: |
+| 🪙 **aurum-ai-terminal** | Real-time Forex & Gold (XAUUSD) live terminal powered by 4-agent parallel AI consensus, SMC liquidity mapping, and TradingView charts. | `Python` `Flask` `TradingView` `Multi-Threading` | [View Repo](https://github.com/IlhamXkyo/aurum-ai-terminal) |
 | 🪶 **zero-g-notes** | A tactile, distraction-free desktop notes app powered by zero-g physics, gravity toggle, and an editorial minimalist UI. | `JavaScript` `Matter.js` `Electron` | [View Repo](https://github.com/IlhamXkyo/zero-g-notes) |
 | 🌐 **TRSLT_RL_KYO_v1** | Transcribe audio to text and translate it in real-life (RL) for interacting with people in hangout games. | `Python` | [View Repo](https://github.com/IlhamXkyo/TRSLT_RL_KYO_v1) |
 
