@@ -1,52 +1,71 @@
-# Hi, I'm Ilham (IlhamXkyo) 👋
-
-Full-stack developer focused on interactive 3D web engines, AI observability tools, audio-visual simulations, and high-performance desktop utilities.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-- **Languages:** TypeScript, JavaScript, Python, PHP, SQL, HTML5, CSS3
-- **Frontend & Frameworks:** Next.js 15, React 19, Tailwind CSS, Bootstrap 5, Vite
-- **Graphics & Audio:** Three.js, HTML5 Canvas 2D, Web Audio API, WebGL, Matter.js
-- **Desktop & Native:** Electron, WebView2, PyAudio (WASAPI Loopback)
-- **Computer Vision & AI:** MediaPipe, OpenCV, HuggingFace Diffusers, Whisper
-- **Databases & ORM:** PostgreSQL, SQLite, MySQL, Prisma ORM, MongoDB
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[AgentPulse](https://github.com/IlhamXkyo/agent-pulse)** | Next.js 15, React 19, Prisma, Tailwind | Full-stack AI agent observability platform with execution tracing, latency waterfall, and prompt evaluation. |
-| **[Aurum AI Terminal](https://github.com/IlhamXkyo/aurum-ai-terminal)** | Python, Flask, TradingView, Audio API | Gold and forex live analysis terminal featuring multi-agent intelligence, SMC liquidity mapping, and real-time tick alerts. |
-| **[AetherPulse](https://github.com/IlhamXkyo/AetherPulse)** | Three.js, Web Audio API, JavaScript | Interactive 3D generative particle symphony and procedural spatial audio sandbox. |
-| **[NeonDrift](https://github.com/IlhamXkyo/NeonDrift)** | Three.js, Web Audio API, Mobile Touch | 3D arcade expressway drifter and traffic dodger with synthwave visualizers and responsive touch controls. |
-| **[PegRogue](https://github.com/IlhamXkyo/PegRogue)** | HTML5 Canvas, Custom 2D Physics, Audio | Roguelike pachinko relic deckbuilder combining pinball physics with score multiplier escalation. |
-| **[Voice Translator Overlay](https://github.com/IlhamXkyo/TRSLT_RL_KYO_v1)** | Python, WASAPI Loopback, WebView2 | Real-time gaming voice chat subtitle overlay translating foreign voice communication into Indonesian on the fly. |
-| **[Zero-G Notes](https://github.com/IlhamXkyo/zero-g-notes)** | Electron, Matter.js, JavaScript | Tactile desktop sticky notes app featuring zero-gravity physics, collision toggles, and minimalist dark aesthetics. |
-| **[Roblox Store](https://github.com/IlhamXkyo/roblox-store-task)** | PHP, MySQL, Bootstrap 5 | Full-stack e-commerce web platform for Roblox virtual items with order status tracking, ratings, and admin dashboard. |
-| **[TrackingHand](https://github.com/IlhamXkyo/TrackingHand)** | Python, OpenCV, MediaPipe | Real-time webcam hand tracking bridge streaming motion capture telemetry into Roblox Studio and Windows air mouse. |
-| **[Chiikawa Runner](https://github.com/IlhamXkyo/chiikawa-runner)** | HTML5 Canvas, Web Audio API | Pure vanilla JavaScript endless obstacle runner featuring custom audio synthesis and sprite state machines. |
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamXkyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ilham's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamXkyo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlhamXkyo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1cDZrOXI5bHp4c3dzNW5hYXhkcXVzMHF4azMyY3Z3aG52NGJzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6C0m3zHvKEsoiKYXq2/giphy.gif" width="500" alt="Eye Monitoring">
+
+# Hi, I'm Ilham 👋
+*Full-Stack Web Enthusiast | Minimalist Design Lover*
+
+<p align="center">
+  Passionate about building functional, aesthetically pleasing, and user-centric applications. Always exploring modern web ecosystems, physics-driven UI, and practical automation tools.
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 🛠️ Tech Stack & Tools
 
-- **GitHub:** [github.com/IlhamXkyo](https://github.com/IlhamXkyo)
-- **Email:** [xanderilham4@gmail.com](mailto:xanderilham4@gmail.com)
-- **Instagram:** [@ill_137](https://instagram.com/ill_137)
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Deployments & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+| Repository | Description | Tech Stack | Link |
+| :--- | :--- | :---: | :---: |
+| ⚡ **agent-pulse** | Next-Gen AI agent observability, tracing waterfall, and interactive playground studio. | `Next.js` `TypeScript` `Prisma` `Tailwind` | [View Repo](https://github.com/IlhamXkyo/agent-pulse) |
+| 🪙 **aurum-ai-terminal** | Real-time Forex & Gold (XAUUSD) live terminal powered by 4-agent parallel AI consensus, SMC liquidity mapping, and TradingView charts. | `Python` `Flask` `TradingView` `Multi-Threading` | [View Repo](https://github.com/IlhamXkyo/aurum-ai-terminal) |
+
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IlhamXkyo&theme=tokyonight&hide_border=true" alt="Ilham's Streak" />
+</p>
+
+---
+
+### 🤖 Ask Anything About Me!
+<p>
+  Have a specific question about my projects or background? Talk to my virtual assistant:
+</p>
+
+<a href="https://www.chatbase.co/ydCM62VbCLnkg4yQVDjFT/help">
+  <img src="https://img.shields.io/badge/Chat_With_Ilham_AI-000000?style=for-the-badge&logo=openai&logoColor=white" width="220" alt="AI Chatbot">
+</a>
+
+---
+
+### 📬 Connect With Me
+<a href="https://instagram.com/ill_137">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/IlhamXkyo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
