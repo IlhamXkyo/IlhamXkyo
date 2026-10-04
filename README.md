@@ -15,9 +15,12 @@
 
 **Languages & Frameworks**
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -38,7 +41,10 @@
 | :--- | :--- | :---: | :---: |
 | ⚡ **agent-pulse** | Next-Gen AI agent observability, tracing waterfall, and interactive playground studio. | `Next.js` `TypeScript` `Prisma` `Tailwind` | [View Repo](https://github.com/IlhamXkyo/agent-pulse) |
 | 🪙 **aurum-ai-terminal** | Real-time Forex & Gold (XAUUSD) live terminal powered by 4-agent parallel AI consensus, SMC liquidity mapping, and TradingView charts. | `Python` `Flask` `TradingView` `Multi-Threading` | [View Repo](https://github.com/IlhamXkyo/aurum-ai-terminal) |
-
+| 🌪️ **aeroflow-lab** | Interactive aerodynamic wind tunnel, Eulerian Navier-Stokes fluid telemetry, and vortex particle physics. | `TypeScript` `HTML5 Canvas` `Physics Engine` | [View Repo](https://github.com/IlhamXkyo/aeroflow-lab) |
+| ✍️ **cadence-forge** | Prose rhythm sculptor, sentence DNA breaker, and anti-slop rewriting workbench. | `TypeScript` `NLP` `Stylometrics` `Tailwind` | [View Repo](https://github.com/IlhamXkyo/cadence-forge) |
+| 🔍 **slop-lens** | Real-time stylometrics inspector and AI writing heuristic linter for natural prose. | `TypeScript` `Tailwind` `Text Analysis` | [View Repo](https://github.com/IlhamXkyo/slop-lens) |
+| 🇮🇩 **warga-os** | Super-App solusi masalah nyata keseharian warga dan anak kos Indonesia. | `Next.js` `TypeScript` `Tailwind` | [View Repo](https://github.com/IlhamXkyo/warga-os) |
 
 ---
 
